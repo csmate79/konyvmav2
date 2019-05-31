@@ -8,7 +8,6 @@ package konyvtarkezelo.beallitasok;
 import com.google.gson.Gson;
 import javafx.scene.control.Alert;
 
-import java.io.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 

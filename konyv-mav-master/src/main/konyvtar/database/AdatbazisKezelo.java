@@ -5,10 +5,6 @@
  */
 package konyvtar.database;
 
-import javax.swing.*;
-import java.sql.*;
-
-
 /**
  *
  * @author csicsek
